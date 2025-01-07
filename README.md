@@ -7,11 +7,10 @@
 
 - 👨‍💻 Blog [t1ppu.github.io](t1ppu.github.io)
 
-- 💬 Ask me about **React, Python and CSS**
+- 💬 Ask me about **React, CSS, Python and Hadoop**
 
 - 📫 How to reach me **kollisriharrsha@rocketmail.com**
 
-- 📄 Know about my experiences [https://t1ppu.github.io/files/Kolli_Resume.pdf](https://t1ppu.github.io/files/Kolli_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
