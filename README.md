@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Profile</h1>
+<h1 align="center">Welcome to my profile!</h1>
 <h3 align="center">Passionate full stack dev, Seeking for opportunities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t1ppu&label=Profile%20views&color=0e75b6&style=flat" alt="t1ppu" /> </p>
@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **kollisriharrsha@rocketmail.com**
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
