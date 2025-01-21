@@ -1,16 +1,25 @@
-<h1 align="center">Welcome to my profile!</h1>
-<h3 align="center">Passionate full stack dev, Seeking for opportunities</h3>
+*<h1 align="center">Welcome Fellow Dwellers!</h1>*
+<h3 align="center"> "Push your code, pull your weight, and let's commit to greatness" </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t1ppu&label=Profile%20views&color=0e75b6&style=flat" alt="t1ppu" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 Blog [t1ppu.github.io](t1ppu.github.io)
-
-- 💬 Ask me about **React, CSS, Python and Hadoop**
-
-- 📫 How to reach me **kollisriharrsha@rocketmail.com**
-
+```javascript
+const aboutMe = {
+    name: {
+        first: "Harrsha",
+        last: "Kolli", 
+    },
+    experience: {
+        curr: 'Research Assistant',
+        prev: 'Software Engineering Intern at Ujjwal Systems'
+    },
+    learning: 'How to build a classy and stylish full stack apps',
+    socials: {
+        linkedin: 'https://www.linkedin.com/in/sri-harrsha/',
+        email: 'kollisriharrsha@rocketmail.com',
+    }
+}
+```
 <p align="left">
 </p>
 
