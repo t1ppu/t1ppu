@@ -13,7 +13,7 @@ const aboutMe = {
         curr: 'Research Assistant',
         prev: 'Software Engineering Intern at Ujjwal Systems'
     },
-    learning: 'How to build a classy and stylish full stack apps',
+    learning: 'Next.js among others',
     socials: {
         linkedin: 'https://www.linkedin.com/in/sri-harrsha/',
         email: 'kollisriharrsha@rocketmail.com',
