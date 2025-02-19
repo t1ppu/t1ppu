@@ -9,10 +9,6 @@ const aboutMe = {
         first: "Harrsha",
         last: "Kolli", 
     },
-    experience: {
-        curr: 'Research Assistant',
-        prev: 'Software Engineering Intern at Ujjwal Systems'
-    },
     learning: 'Next.js among others',
     socials: {
         linkedin: 'https://www.linkedin.com/in/sri-harrsha/',
