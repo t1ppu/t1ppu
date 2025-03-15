@@ -3,19 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t1ppu&label=Profile%20views&color=0e75b6&style=flat" alt="t1ppu" /> </p>
 
-```javascript
-const aboutMe = {
-    name: {
-        first: "Harrsha",
-        last: "Kolli", 
-    },
-    learning: 'Next.js among others',
-    socials: {
-        linkedin: 'https://www.linkedin.com/in/sri-harrsha/',
-        email: 'kollisriharrsha@rocketmail.com',
-    }
-}
-```
 <p align="left">
 </p>
 
